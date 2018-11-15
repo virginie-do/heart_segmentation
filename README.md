@@ -1,4 +1,4 @@
-# heart_segmentation
+# Heart segmentation
 Unsupervised segmentation of the heart on CT scans
 
 Unofficial Python implementation of the segmentation algorithm presented in the following paper: 
